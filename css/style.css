@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap");
+body {
+  background-color: #18181a;
+  font-family: "Roboto", sans-serif;
+}
+main#container {
+  background-color: #242526;
+  box-shadow: 0 0 10px #111111;
+  border-radius: 15px;
+}
+
+h1.titulo {
+  color: #ebee00;
+  font-size: 36px;
+}
+
+p.frase {
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+p.autor {
+  color: #ebee00;
+  font-size: 14px;
+  margin-right: 20px;
+}
